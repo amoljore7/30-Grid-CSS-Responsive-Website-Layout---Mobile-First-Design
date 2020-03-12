@@ -1,7 +1,7 @@
 {
   "name": "react-app",
   "version": "0.1.0",
-  "homepage": "https://amoljore7.github.io/27-ReactJS-Multiple-Applications/",
+  "homepage": "https://amoljore7.github.io/30-Grid-CSS-Responsive-Website-Layout---Mobile-First-Design/",
   "private": true,
   "dependencies": {
     "react": "^16.4.1",
