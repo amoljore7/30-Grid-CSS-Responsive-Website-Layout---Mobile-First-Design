@@ -14,7 +14,7 @@ class App extends Component {
       <header id="showcase" class="grid">
           <div class="bg-image"></div>
           <div class="content-wrap">
-              <h1>Welcome to gsLab</h1>
+              <h1>Welcome To gsLab</h1>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni ullam eius sed sequi iure architecto iste
                   deserunt provident nisi unde.</p>
               <a href="#section-b" class="btn">Read More</a>
